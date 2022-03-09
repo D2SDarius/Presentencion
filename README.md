@@ -1,4 +1,4 @@
-# Presentencion
+# Presentation
 Hi, i am a new dev                                                                                                                  
 i try to learn python(pygame) for now. But the next is javascript language                                                          
 and next is C language and the final is to enter the engine game world : )                                                          
