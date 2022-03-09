@@ -6,4 +6,8 @@ All my project will be here and everyone can download :D
 age: secret for now                                                                                                                 
 discord: لا  لĐ²§Darius2010st#0513                                                                                                 
 birthday: 9 may                                                                                                                     
-country: romania                                                                                                                    
+country: romania 
+my favorite music (for now): Ashes - Stellar (Official Lyric Video)
+
+(document created: 9.03.2022 [03.09.2022])                                                                                            
+(Document Updated: 9.03.2022 [03.09.2022])
