@@ -7,7 +7,7 @@ age: secret for now
 Gender: male                                                                                                               
 discord:D2SDarius#0513                                                                                                
 birthday: 9 may                                                                                                                     
-country: romania 
+country: romania                                                                                                             
 my favorite music (for now): Tyler Shaw - Love You Still (abcdefu romantic version) (Official Lyric Video)
 
 (document created: 4.13.2022 [13.04.2022])                                                                                            
