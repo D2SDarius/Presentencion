@@ -8,7 +8,6 @@ Gender: male
 discord:D2SDarius#0513                                                                                                
 birthday: 9 may                                                                                                                     
 country: romania                                                                                                             
-my favorite music (for now): Tyler Shaw - Love You Still (abcdefu romantic version) (Official Lyric Video)                   
-[yeah, romance music :)]                                                                                                                                                       
+my favorite music (for now): Rxseboy - Nice To Meet Me (Lyric Video) ft. Au/Ra                                                                                                                                                       
 (document created: 4.13.2022 [13.04.2022])                                                                                            
 (Document Updated: 9.03.2022 [03.09.2022])
