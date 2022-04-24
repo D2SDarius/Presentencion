@@ -1,7 +1,7 @@
 # Presentation
 Hi, i am a new dev                                                                                                                  
-i try to learn python for now. But the next is "java"                                                          
-and next is "C#" language and the next is "C++" and the final is to enter the engine game world : )                                     
+i try to learn python for now. But the next is                                                           
+"C#" language and the next is "C++" and the final is to enter the engine game world : )                                     
 All my project will be here and everyone can download :D                                                                            
 age: secret for now                                                                                                           
 Gender: male                                                                                                                                             
